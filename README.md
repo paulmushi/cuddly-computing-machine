@@ -1,6 +1,7 @@
 ## cuddly-computing-machine
 Building AI Website using Javascript and PHP
 https://paulmushi.github.io/cuddly-computing-machine/
+
 A) Create your API Key on the openAI website - TOP Create an account and generate your API_KEY. Go to https://platform.openai.com/account/api-keys
 
 To store your api key, you have 2 options: Using a key on the frontend You can put your API Key in a json file, without the need to use a server. The advantage is that you don't need a server. The disadvantage is that your API KEY is exposed, and other people can see it. Then access the file.json file (html-files/json/config.json) and put your key in the API_KEY field between the quotes
